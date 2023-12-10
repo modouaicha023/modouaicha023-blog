@@ -18,11 +18,12 @@ body {
 
 h1 {
     margin: 1rem 0;
-    font-size: 2.5rem;
+    color: rgb(142, 120, 59);
+    font-size: 4rem;
 }
 
 a {
-    color: aquamarine;
+    color: rgb(255, 227, 127);
 }
 
 nav {
